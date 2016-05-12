@@ -1,0 +1,20 @@
+git checkout master
+git checkout -b branch1  (NOTE-if you are creating new branch use -b other wise no need to use -b )
+
+git status
+
+git add filename
+
+git commit -a -m "yougal new file "
+
+git push origin branch1
+
+git checkout master 
+
+git branch
+
+git pull origin branch1
+
+git push origin master
+
+
